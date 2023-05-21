@@ -28,10 +28,10 @@ const next = document.querySelector('.right-arrow')
 const prev = document.querySelector('.left-arrow')
 
 let images = [
-  'url(Photos/image1.png)',
-  'url(Photos/image2.png)',
-  'url(Photos/image3.png)',
-  'url(Photos/image4.png)',
+  'url(photo/image1.png)',
+  'url(photo/image2.png)',
+  'url(photo/image3.png)',
+  'url(photo/image4.png)',
 ]
 
 let current = 0  //current image index
